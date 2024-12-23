@@ -1,3 +1,8 @@
 {
-    "public": "web"
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/index.html"
+        }
+    ]
 }
